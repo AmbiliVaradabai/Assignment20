@@ -1,0 +1,23 @@
+Repository URL :https://github.com/AmbiliVaradabai/Ecart_NodeJsAssignment_13.git
+
+
+Fllowed below commands
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch middleware 
+git checkout middleware
+git add . (Copied Server side code there)
+git commit -m "Added NodeJS code"
+git branch UI
+git checkout UI 
+git add . (Copied UI there)
+git commit -m "Added UI Changes"
+git remote add origin https://github.com/AmbiliVaradabai/Ecart_NodeJsAssignment_13.git
+git push -u origin master   
+git checkout UI    
+git push -u origin UI   
+git checkout middleware 
+git push -u origin middleware 

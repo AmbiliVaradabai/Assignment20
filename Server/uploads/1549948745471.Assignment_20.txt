@@ -1,0 +1,17 @@
+
+
+1) main page design  			- Done
+2) Users list population		- DOne
+3) add user link routing 		- DOne
+4) add user design			- DOne
+5) register logic			- Done
+6) Cancel 				- Done
+7) resgiter routing			- Done
+8) success page design			- Done
+9) routing of upload image		- Done
+10) routing of go back to users link	- Done
+11) file upload page deisgn		- Done
+12) Listing Logic			- DOne 		
+13) upload logic
+14) down load logic
+15) delete logic
